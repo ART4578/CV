@@ -111,6 +111,7 @@ body {
 .contactInfo ul li span {
     color: #fff;
     font-weight: 300;
+    font-size: 15px;
 }
 
 .contactInfo.language {
